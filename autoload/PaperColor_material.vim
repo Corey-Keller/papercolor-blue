@@ -28,6 +28,7 @@ function! PaperColor_material#register() abort "{{{
         \     'color15': ['#d9d9d9', '']
         \   }
         \ }
+        
     let g:PaperColor_material.dark = {
         \ 'palette': {
         \     'color00': ['#212121', ''],
